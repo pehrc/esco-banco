@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "escoBanco",
+    "slug": "escoBanco",
+    "scheme": "escoBanco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "risizeMode": "contain",
+      "backgroundColor": "#5636D3"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.escoBanco"
+    },
+    "android": {
+      "package": "com.escoBanco"
+    },
+    "owner": "ighorsantiago"
+  }
+}
